@@ -19,6 +19,7 @@ Quick Tips:
 
 
 ## Concepts, features, and structures I used
+-Nested for loops. (I know this sucks for efficiency.)
 
 
 ## What I learned / Problems I encountered and resolved
